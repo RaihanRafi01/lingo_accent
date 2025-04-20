@@ -1,4 +1,4 @@
-# 🎙️ Lingo Accent – Learn, Practice & Master Any Accent with AI
+# 🎹 Lingo Accent – Learn, Practice & Master Any Accent with AI
 
 **Lingo Accent** is an immersive, AI-powered accent training app that helps users enhance their pronunciation, fluency, and speaking confidence across different English accents. Built with a clean, user-friendly interface and powered by smart technologies like **GetX**, **AI feedback systems**, and a dynamic community, **Lingo Accent** makes learning accents fun, competitive, and deeply personalized.
 
@@ -9,7 +9,7 @@
 ### 🧠 Learn Accents with AI
 Practice speaking in different accents (e.g., British, American, Australian, etc.) with our intelligent AI coach. The AI listens, guides, and corrects your pronunciation and intonation in real time.
 
-### \2753 Quiz-Based Learning
+### ❓ Quiz-Based Learning
 Reinforce your understanding with interactive quizzes after each learning session. The quiz content is tailored to match the accent you've just practiced, ensuring real retention and measurable progress.
 
 ### 🏅 Leaderboard System
@@ -34,11 +34,12 @@ Built with a **clean, intuitive UI** and seamless navigation, Lingo Accent is ac
 
 ## 🛠️ Tech Stack
 
-| Tech | Description |
-|------|-------------|
-| **Flutter** | Cross-platform mobile app development |
-| **GetX** | Efficient state management & navigation |
-| **AI / NLP** | For pronunciation analysis, feedback generation, and conversation evaluation |
+| Tech              | Description |
+|-------------------|-------------|
+| **Flutter**       | Cross-platform mobile app development |
+| **GetX**          | Efficient state management & navigation |
+| **Django**        | Authentication, real-time database, and cloud functions |
+| **AI / NLP**      | For pronunciation analysis, feedback generation, and conversation evaluation |
 | **WebRTC / VoIP** | In-app voice calling system |
 | **Cloud Storage** | Media and voice session recordings (if enabled) |
 
@@ -52,7 +53,33 @@ _Add screenshots or screen recordings here to visually showcase your app._
 
 ## 🚀 Getting Started
 
-> Coming Soon: Step-by-step instructions on how to run this project locally, set up Firebase, and configure AI modules.
+> ⚠️ **Note:** This project is currently a **frontend-only demo**.
+
+To run the frontend on your local device:
+
+### Prerequisites
+- Flutter SDK installed
+- A device or emulator set up
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/lingo-accent.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd lingo-accent
+   ```
+3. Get dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+> Backend features like AI feedback, community calls, and quizzes are under integration. This version showcases the UI and navigation experience.
 
 ---
 
@@ -65,12 +92,4 @@ We welcome contributions! Whether it’s bug fixes, new features, or documentati
 ## 📬 Contact
 
 For support, feature requests, or collaborations:  
-📧 **yourname@example.com**  
-🌐 [YourPortfolio.com](https://yourportfolio.com)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
+📧 **raihanrafi992@gmail.com**
