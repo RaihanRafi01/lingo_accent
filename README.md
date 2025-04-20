@@ -1,4 +1,4 @@
-# 🎙️ Lingo Accent – Learn, Practice & Master Any Accent with AI
+![Screenshot_20250420_115939](https://github.com/user-attachments/assets/2bed6a02-43bd-43a9-92d3-81bc8e1beae1)# 🎙️ Lingo Accent – Learn, Practice & Master Any Accent with AI
 
 **Lingo Accent** is an immersive, AI-powered accent training app that helps users enhance their pronunciation, fluency, and speaking confidence across different English accents. Built with a clean, user-friendly interface and powered by smart technologies like **GetX**, **AI feedback systems**, and a dynamic community, **Lingo Accent** makes learning accents fun, competitive, and deeply personalized.
 
@@ -45,9 +45,16 @@ Built with a **clean, intuitive UI** and seamless navigation, Lingo Accent is ac
 
 ---
 
-## 📸 Screenshots *(Optional section if you want to add)*
+## 📸 Screenshots
 
-_Add screenshots or screen recordings here to visually showcase your app._
+![Screenshot_20250420_115939](https://github.com/user-attachments/assets/292d8808-1763-4f29-8da3-61fa9b59c2ec)
+![Screenshot_20250420_120115](https://github.com/user-attachments/assets/4ff72740-2394-44fc-b0c1-17ee90b5a0e0)
+![Screenshot_20250420_120135](https://github.com/user-attachments/assets/8e736d92-99ff-4b99-8534-ea417cd79e89)
+![Screenshot_20250420_120158](https://github.com/user-attachments/assets/a26ac19d-9b78-43d2-bb0f-ccc81feb1d90)
+![Screenshot_20250420_120221](https://github.com/user-attachments/assets/8883e58c-621b-4b40-9fcd-7889cf19ad8e)
+![Screenshot_20250420_120319](https://github.com/user-attachments/assets/c3c8819e-c836-405b-856f-2c3bd1d075f4)
+![Screenshot_20250420_120355](https://github.com/user-attachments/assets/a8eacee0-1615-4e99-bd2f-4985859e0eb1)
+![Screenshot_20250420_120446](https://github.com/user-attachments/assets/037ba40c-f719-496b-bcdd-7fe5448e6dce)
 
 ---
 
