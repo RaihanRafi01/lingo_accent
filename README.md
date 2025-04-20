@@ -1,4 +1,4 @@
-# 🎹 Lingo Accent – Learn, Practice & Master Any Accent with AI
+# 🎙️ Lingo Accent – Learn, Practice & Master Any Accent with AI
 
 **Lingo Accent** is an immersive, AI-powered accent training app that helps users enhance their pronunciation, fluency, and speaking confidence across different English accents. Built with a clean, user-friendly interface and powered by smart technologies like **GetX**, **AI feedback systems**, and a dynamic community, **Lingo Accent** makes learning accents fun, competitive, and deeply personalized.
 
@@ -64,7 +64,7 @@ To run the frontend on your local device:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lingo-accent.git
+   git clone https://github.com/RaihanRafi01/lingo_accent.git
    ```
 2. Navigate into the project directory:
    ```bash
